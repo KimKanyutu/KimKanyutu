@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
-- 📫 Reach me via email- kimkanyut@gmail.com
+- 📫 Reach me via email- kimkanyutu@gmail.com
 
 <!---
 KimKanyutu/KimKanyutu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
